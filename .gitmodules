@@ -1,0 +1,10 @@
+[submodule "libs/VisTrace"]
+	path = libs/VisTrace
+	url = https://github.com/Derpius/VisTrace.git
+[submodule "libs/glm"]
+	path = libs/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "libs/gmod-module-base"]
+	path = libs/gmod-module-base
+	url = https://github.com/Facepunch/gmod-module-base.git
+	branch = development
