@@ -11,6 +11,7 @@ add_subdirectory("libs/glm")
 add_library(
 	${PROJECT_NAME} SHARED
 	"source/VisCam.cpp"
+	"source/Bokeh.cpp"
 )
 
 target_include_directories(
