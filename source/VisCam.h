@@ -8,4 +8,4 @@
 
 #include <omp.h>
 
-void Bokeh(VisTrace::IRenderTarget* pRt, const Camera& cam);
+void Bokeh(VisTrace::IRenderTarget* pRt, const Camera* cam, const VisTrace::IRenderTarget* pDepth);
